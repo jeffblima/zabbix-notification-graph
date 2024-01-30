@@ -1,4 +1,5 @@
 # Doações
+<!--
 <table>
     <tr>
         <td> <!-- PagSeguro -->
